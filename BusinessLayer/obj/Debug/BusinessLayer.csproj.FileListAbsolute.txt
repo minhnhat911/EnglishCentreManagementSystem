@@ -1,0 +1,12 @@
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\DataLayer.dll
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\TransferObject.dll
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\TransferObject.pdb
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\LT_CSDL\EnglishCentreManagement\BusinessLayer\bin\Debug\Guna.UI2.dll

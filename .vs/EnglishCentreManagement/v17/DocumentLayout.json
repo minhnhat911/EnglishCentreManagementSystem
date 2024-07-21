@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LT_CSDL\\EnglishCentreManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|e:\\lt_csdl\\englishcentremanagement\\businesslayer\\placementtestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\placementtestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formchild\\formmenustudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formchild\\formmenustudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\accountdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\accountdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\placementtestdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\placementtestdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6376778-A2A0-45D0-B7F6-3A640EE3A980}|Solution Items{A6376778-A2A0-45D0-B7F6-3A640EE3A980}|E:\\LT_CSDL\\EnglishCentreManagement\\Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A6376778-A2A0-45D0-B7F6-3A640EE3A980}|Solution Items{A6376778-A2A0-45D0-B7F6-3A640EE3A980}|solutionrelative:Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\proficiencyleveldl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\proficiencyleveldl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\classdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\classdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\teacherdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\teacherdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagefees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagefees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\businesslayer\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formchild\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formchild\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formchild\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formchild\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\businesslayer\\feebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59CD247-99E3-4692-B167-3782728AEBD6}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\feebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\feedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\feedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576C2104-FD1A-4A8D-973F-08342C2FB70F}|TransferObject\\TransferObject.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\transferobject\\studenttuitionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576C2104-FD1A-4A8D-973F-08342C2FB70F}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\studenttuitionfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagefees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagefees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\formmanagecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\formmanagecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formchild\\formmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formchild\\formmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formchild\\formmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formchild\\formmenuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\datalayer\\coursedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B63B1C-FB92-4AE9-A5C7-115F45F9F2F7}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\coursedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|E:\\LT_CSDL\\EnglishCentreManagement\\presentationlayer\\formmanagement\\frmaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0B6A3-0EB6-4D20-AD1C-9770EA6991E3}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\formmanagement\\frmaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlacementTestBL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\PlacementTestBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\PlacementTestBL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\PlacementTestBL.cs",
+              "RelativeToolTip": "BusinessLayer\\PlacementTestBL.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:02:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenuStudent.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuStudent.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormChild\\FormMenuStudent.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuStudent.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormChild\\FormMenuStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:58:37.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAddResult.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:54:50.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\StudentDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\StudentDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\StudentDL.cs",
+              "RelativeToolTip": "DataLayer\\StudentDL.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAgwIkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:30:24.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddStudent.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddStudent.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:22:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddStudent.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddStudent.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAHMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:27:46.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddResult.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddResult.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddResult.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:07:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\AccountDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\AccountDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\AccountDL.cs",
+              "RelativeToolTip": "DataLayer\\AccountDL.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:32:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlacementTestDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\PlacementTestDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\PlacementTestDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\PlacementTestDL.cs",
+              "RelativeToolTip": "DataLayer\\PlacementTestDL.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:50:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProficiencyLevelDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\ProficiencyLevelDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ProficiencyLevelDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\ProficiencyLevelDL.cs",
+              "RelativeToolTip": "DataLayer\\ProficiencyLevelDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:03:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormManageStudents.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageStudents.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:20:52.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Script.sql",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\Script.sql",
+              "RelativeDocumentMoniker": "Script.sql",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\Script.sql",
+              "RelativeToolTip": "Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-14T02:36:15.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataProvider.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\DataProvider.cs",
+              "RelativeToolTip": "DataLayer\\DataProvider.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:02:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormManageCourse.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageCourse.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:30:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormManageClasses.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:09:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormManageClasses.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageClasses.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageClasses.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:21:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\ClassDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ClassDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\ClassDL.cs",
+              "RelativeToolTip": "DataLayer\\ClassDL.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowJsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:15:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormManageAccounts.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageAccounts.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageAccounts.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageAccounts.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageAccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:12:40.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\TeacherDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\TeacherDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\TeacherDL.cs",
+              "RelativeToolTip": "DataLayer\\TeacherDL.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:06:21.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormManageFees.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageFees.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageFees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:30:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormManageResult.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageResult.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:01:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormManageTeacher.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageTeacher.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageTeacher.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageTeacher.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:20:34.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormManageStudents.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageStudents.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:09:40.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LoginDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\LoginDL.cs",
+              "RelativeToolTip": "DataLayer\\LoginDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:41:15.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmAddTeacher.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddTeacher.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddTeacher.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddTeacher.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:22:47.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmAddAccount.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddAccount.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddAccount.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddAccount.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:23:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountBL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\AccountBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\AccountBL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\AccountBL.cs",
+              "RelativeToolTip": "BusinessLayer\\AccountBL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:53:19.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormLogin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormChild\\FormLogin.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormLogin.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormChild\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:24:49.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormLogin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormChild\\FormLogin.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormLogin.cs",
+              "RelativeToolTip": "PresentationLayer\\FormChild\\FormLogin.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:24:51.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmAddClass.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddClass.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:58:14.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\packages.config",
+              "RelativeDocumentMoniker": "PresentationLayer\\packages.config",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\packages.config",
+              "RelativeToolTip": "PresentationLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T03:12:44.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormManageResult.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageResult.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswFUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:04:49.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\App.config",
+              "RelativeDocumentMoniker": "PresentationLayer\\App.config",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\App.config",
+              "RelativeToolTip": "PresentationLayer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T03:12:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormManageFees.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageFees.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:37:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FeeBL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\FeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\FeeBL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\BusinessLayer\\FeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\FeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:34:34.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FeeDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\FeeDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\FeeDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\FeeDL.cs",
+              "RelativeToolTip": "DataLayer\\FeeDL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:32:33.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentTuitionFee.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\TransferObject\\StudentTuitionFee.cs",
+              "RelativeDocumentMoniker": "TransferObject\\StudentTuitionFee.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\TransferObject\\StudentTuitionFee.cs",
+              "RelativeToolTip": "TransferObject\\StudentTuitionFee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:33:16.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormManageCourse.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FormManageCourse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:37:45.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormMenuAdmin.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "RelativeToolTip": "PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:31:10.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormMenuAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormChild\\FormMenuAdmin.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormChild\\FormMenuAdmin.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FormChild\\FormMenuAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:31:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourseDL.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\CourseDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CourseDL.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\DataLayer\\CourseDL.cs",
+              "RelativeToolTip": "DataLayer\\CourseDL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:29:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmAddClass.cs",
+              "DocumentMoniker": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "ToolTip": "E:\\LT_CSDL\\EnglishCentreManagement\\PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "RelativeToolTip": "PresentationLayer\\FormManagement\\FrmAddClass.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwGEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:58:18.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

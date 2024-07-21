@@ -1,0 +1,8 @@
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\bin\Debug\TransferObject.dll
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\bin\Debug\TransferObject.pdb
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\obj\Debug\TransferObject.dll
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\obj\Debug\TransferObject.pdb
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\bin\Debug\Guna.UI2.dll
+E:\LT_CSDL\EnglishCentreManagement\TransferObject\obj\Debug\Transfer.F5B4361A.Up2Date
