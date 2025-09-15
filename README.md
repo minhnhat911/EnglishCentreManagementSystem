@@ -1,2 +1,1 @@
-English Center Management System
-C#
+An English Centre Management System that supports managing students, teachers, courses, classes, attendance, grades, and payments. The system features an automatic level placement function based on placement test scores, enabling efficient and accurate student classification. It is built on a 3-tier architecture, ensuring high performance, scalability, and ease of maintenance.
